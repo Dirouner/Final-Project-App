@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Voursine</string>
+    <string name="app_name_dot">Voursine.</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="login_subtitle">Log in to your account to continue.</string>
+    <string name="create_account">Create account</string>
+    <string name="register_subtitle">Sign up to create your account.</string>
+    <string name="username">Username</string>
+    <string name="enter_username">Enter your username</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="have_account">Already have an account? Log In</string>
+    <string name="no_account">Don\'t have an account? Register</string>
+
+    <string name="discover">Discover</string>
+    <string name="account_balance">Account Balance</string>
+    <string name="default_balance">€ 4730.67</string>
+    <string name="censored_balance">€ ////////</string>
+    <string name="hide">Hide</string>
+    <string name="show">Show</string>
+    <string name="top_up">Top Up</string>
+    <string name="go_back">Go Back</string>
+    <string name="service_on_maintenance">Service on Maintenance</string>
+    <string name="product_1">Heritage Replica Long Sleeve Polo</string>
+    <string name="product_2">Midweight Fleece Icon</string>
+    <string name="product_3">North Dome Wind Jacket</string>
+    <string name="product_4">Water-Repellent Hooded Windbreaker</string>
+    <string name="product_5">Pullover Windbreaker</string>
+    <string name="product_6">Utility Cotton Blend Parka</string>
+    <string name="product_7">Seamless Down Parka</string>
+    <string name="product_8">Schott Parka</string>
+
+    <string name="payment">Payment</string>
+    <string name="standard_shipping">Standard Shipping</string>
+    <string name="taxes">Taxes</string>
+    <string name="calculated_in_total">Calculated in Total</string>
+    <string name="total_prices">Total Prices</string>
+    <string name="cancel">Cancel</string>
+    <string name="buy_now">Buy Now</string>
+
+    <string name="item_purchased">Item Purchased!</string>
+    <string name="package_id">Package ID</string>
+    <string name="package_id_val">J**********EU</string>
+    <string name="shipping_address">Shipping Address</string>
+    <string name="shipping_address_val">Le Sardanapale, 2 Av. Princesse Grace, 98000 Monaco, Monako</string>
+    <string name="estimated_time">Estimated Time</string>
+    <string name="estimated_time_val">In 3&#8211;4 Days</string>
+    <string name="home_page">Home Page</string>
+</resources>

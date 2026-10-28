@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="logo_box_bg">#47596E</color>
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#718096</color>
+    <color name="input_bg">#F8FAFC</color>
+    <color name="input_stroke">#E2E8F0</color>
+    <color name="input_stroke_focused">#47596E</color>
+    <color name="input_hint">#94A3B8</color>
+    <color name="btn_login_bg">#303032</color>
+    <color name="btn_login_text">#FFFFFFFF</color>
+</resources>
